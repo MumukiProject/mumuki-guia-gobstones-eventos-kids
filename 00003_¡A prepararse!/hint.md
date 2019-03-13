@@ -1,0 +1,1 @@
+Ya te dejamos las funciones piedras y abono para que devuelvan el color de bolita que les corresponde.
