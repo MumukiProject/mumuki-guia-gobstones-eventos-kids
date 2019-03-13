@@ -1,0 +1,1 @@
+Una parcela está rodeada si hay lechuga o choclo al Norte, al Este, al Sur **y** al Oeste. Podés meter el bloque de un operador dentro de otro para tener todos los `y también` necesarios.
