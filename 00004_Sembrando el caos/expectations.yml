@@ -1,0 +1,17 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Sembrar
+  inspection: UsesIf
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Sembrar
+  inspection: Uses:tienePiedras
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Sembrar
+  inspection: Uses:tieneAbono
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Sembrar
+  inspection: Uses:haySemillasPrevias
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Sembrar
+  inspection: Uses:Colocar4
