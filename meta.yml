@@ -1,9 +1,11 @@
 ---
-name: Eventos kids
+name: Semi-ya!
 locale: es
 type: learning
 beta: false
+teacher_info: ''
 language: gobstones
 id_format: "%05d"
-order: []
+order:
+- 1
 private: false
