@@ -2,4 +2,4 @@
 
 Pero cuidado :warning:, porque demasiada agua podría hacerles muy mal :confounded:. Por eso, programemos la _Semi-ya!_ para que pueda verificar la humedad de la tierra. Así sabremos cuándo regar y cuándo no. :wink:
 
-> Completá la función `la tierra está húmeda` para que devuelva si el ` número de bolitas de agua` es `igual` a `3 o` a `7`. Luego, definí el procedimiento `Regar` que, `si la tierra no está húmeda`, `ponga dos bolitas de agua`. Asociá el procedimiento a la barra de `espacio`.
+> Completá la función `la tierra está húmeda` para que devuelva si el ` número de bolitas de agua` es `igual` a `3 o` a `7`. Luego, definí el procedimiento `Regar` que, `si la tierra no está húmeda`, `ponga dos bolitas de agua`. Asociá el procedimiento a la tecla `A` (de agua :stuck_out_tongue_winking_eye:).
