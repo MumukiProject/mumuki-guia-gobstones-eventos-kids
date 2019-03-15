@@ -1,3 +1,5 @@
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-eventos-kids/master/assets/attires/config_1552681552242.json"></gs-attire>
+
 ¡Excelente! Los tomates :tomato: ya tienen el espacio necesario para crecer. Preparamos la tierra, la alimentamos con composta, plantamos las semillas… ¿Qué nos falta? Si recordás lo que hablamos en las guías anteriores, ¡todos los seres vivos necesitan **agua**! :droplet:
 
 Pero cuidado :warning:, porque demasiada agua podría hacerles muy mal :confounded:. Por eso, programemos la _Semi-ya!_ para que pueda verificar la humedad de la tierra. Así sabremos cuándo regar y cuándo no. :wink:

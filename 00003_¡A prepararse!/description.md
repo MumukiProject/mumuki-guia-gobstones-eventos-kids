@@ -1,3 +1,5 @@
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-eventos-kids/master/assets/attires/config_1552681552242.json"></gs-attire>
+
 ¡Excelente, ya tenemos todo listo para mover nuestra sembradora por el terreno! ¿Qué esperás para empezar a sembrar?  :grimacing:
 
 Bueno… Primero deberíamos preparar la tierra. Eso implica limpiarla y llenarla de nutrientes para que nuestras plantas crezcan sanas y fuertes :muscle:; es como darle de comer a la tierra. :yum:
