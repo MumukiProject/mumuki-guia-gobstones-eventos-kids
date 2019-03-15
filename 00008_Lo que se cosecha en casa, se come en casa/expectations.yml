@@ -1,0 +1,17 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Cosechar
+  inspection: UsesIf
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Cosechar
+  inspection: Uses:SacarFruto
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: hayFrutoMaduro
+  inspection: Uses:elTomateEstáMaduro
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: hayFrutoMaduro
+  inspection: Uses:elChocloEstáMaduro
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: hayFrutoMaduro
+  inspection: Uses:laLechugaEstáMadura
