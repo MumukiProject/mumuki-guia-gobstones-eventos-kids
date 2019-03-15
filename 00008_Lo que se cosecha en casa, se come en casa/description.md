@@ -1,4 +1,4 @@
-<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-eventos-kids/master/assets/attires/config_1552681552242.json"></gs-attire>
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-eventos-kids/master/assets/attires/config_1552681981329.json"></gs-attire>
 
 Crecidas las hortalizas, solo nos queda un paso… ¿Comerlas? :yum: ¡Siii, pero para eso hay que cosecharlas! 
 
