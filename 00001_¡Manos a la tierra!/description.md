@@ -1,4 +1,4 @@
-<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-eventos-kids/master/assets/attires/config_1552681552242.json"></gs-attire>
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-eventos-kids/master/assets/attires/config_1552681981329.json"></gs-attire>
 
 Programar un juego :space_invader: no es tarea fácil, pero gracias al tablero de _Gobstones_ nos ahorraremos el trabajo duro de la parte visual :eyes:. ¿Y qué hacemos entonces? Mínimamente tendríamos que poder movernos :dancer:, sino sería aburridísimo. :bow:
 
