@@ -1,0 +1,11 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Regar
+  inspection: UsesIf
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Regar
+  inspection: Uses:laTierraEstáHúmeda
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Regar
+  inspection: Uses:haySemillasPrevias
