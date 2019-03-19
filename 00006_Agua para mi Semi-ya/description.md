@@ -1,6 +1,6 @@
 <gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-eventos-kids/master/assets/attires/config_1552685468604.json"></gs-attire>
 
-<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-eventos-kids/master/assets/toolbox_1552945151840.xml"></gs-toolbox>
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-eventos-kids/master/assets/toolbox_1552945151840.xml"></gs-toolbox> 
 
 ¡Excelente! Los tomates :tomato: ya tienen el espacio necesario para crecer. Preparamos la tierra, la alimentamos con composta, plantamos las semillas… ¿Qué nos falta? Si recordás lo que hablamos en las guías anteriores, ¡todos los seres vivos necesitan **agua**! :droplet:
 
