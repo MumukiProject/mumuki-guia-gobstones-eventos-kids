@@ -1,4 +1,4 @@
-<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-eventos-kids/master/assets/attires/config_1552681552242.json"></gs-attire>
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-eventos-kids/master/assets/attires/config_1552685468604.json"></gs-attire>
 
 Ya casi tenemos todo listo… ¿Con qué seguimos? ¿Ya se puede comer? :grimacing: Nooo, ¡tranqui! Las plantas son como cualquier ser vivo; además de agua y comida, necesitan tiempo para crecer. :hourglass_flowing_sand: :seedling:
  
