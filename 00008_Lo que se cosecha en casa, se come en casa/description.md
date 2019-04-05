@@ -1,5 +1,9 @@
 <gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-eventos-kids/master/assets/attires/config_1552685468604.json"></gs-attire>
 
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-eventos-kids/master/assets/toolbox_1552945151840.xml"></gs-toolbox>
+
+<gs-keyboard-config keyboard-url="https://raw.githubusercontent.com/luchotc/mumuki-guide-gobstones-guia-test-attires/master/example.json"></gs-keyboard-config>
+
 Crecidas las hortalizas, solo nos queda un paso… ¿Comerlas? :yum: ¡Siii, pero para eso hay que cosecharlas! 
 
 ¿Y cuándo se hace eso? Cada hortaliza tiene su tiempo de crecimiento. Hay que tratar de no sacarlas antes de que maduren, ni muy tarde y que se pudran. La lechuga es la que crece más rápido, entre 1 y 2 meses, el tomate tarda de 3 a 4 meses y el choclo es el que más se hace esperar, ¡entre 4 y 6 meses!

@@ -15,3 +15,6 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: hayFrutoMaduro
   inspection: Uses:laLechugaEstáMadura
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: onKRPressed
+  inspection: Uses:Cosechar
