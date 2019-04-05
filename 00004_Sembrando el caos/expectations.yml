@@ -16,5 +16,8 @@ expectations:
   binding: Sembrar
   inspection: Uses:Colocar4_
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: onKBPressed
-  inspection: Uses:LimpiarYAbonarTierra
+  binding: onKCPressed
+  inspection: Uses:Sembrar
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: onKLPressed
+  inspection: Uses:Sembrar
