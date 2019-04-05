@@ -2,7 +2,7 @@
 
 <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-eventos-kids/master/assets/toolbox_1554479911696.xml"></gs-toolbox>
 
-<gs-keyboard-config keyboard-url="https://raw.githubusercontent.com/luchotc/mumuki-guide-gobstones-guia-test-attires/master/example.json"></gs-keyboard-config>
+<gs-keyboard-config keyboard-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-eventos-kids/master/assets/keyboard.json"></gs-keyboard-config>
 
 ¡Excelente, ya tenemos todo listo para mover nuestra sembradora por el terreno! ¿Qué esperás para empezar a sembrar?  :grimacing:
 
