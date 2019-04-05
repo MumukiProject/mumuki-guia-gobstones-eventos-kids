@@ -2,7 +2,7 @@
 
 <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-eventos-kids/master/assets/toolbox_1552945151840.xml"></gs-toolbox>
 
-<gs-keyboard-config keyboard-url="https://raw.githubusercontent.com/luchotc/mumuki-guide-gobstones-guia-test-attires/master/example.json"></gs-keyboard-config>
+<gs-keyboard-config keyboard-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-eventos-kids/master/assets/keyboard.json"></gs-keyboard-config>
 
 Cuando tenemos poquito espacio o solo algunas macetas :bamboo:, es fundamental aprovecharlo al máximo para poder sembrar todo lo posible. Resulta que algunas hortalizas se llevan bien entre sí, y otras no tanto… :sweat_smile:
 
