@@ -14,7 +14,7 @@ expectations:
   inspection: Uses:haySemillasPrevias
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: Sembrar
-  inspection: Uses:Colocar4
+  inspection: Uses:Colocar4_
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: onKBPressed
   inspection: Uses:LimpiarYAbonarTierra
