@@ -2,7 +2,7 @@
 
 <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-eventos-kids/master/assets/toolbox_1554479911696.xml"></gs-toolbox>
 
-<gs-keyboard-config keyboard-url="https://raw.githubusercontent.com/luchotc/mumuki-guide-gobstones-guia-test-attires/master/example.json"></gs-keyboard-config>
+<gs-keyboard-config keyboard-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-eventos-kids/master/assets/keyboard.json"></gs-keyboard-config>
 
 Programar un juego :space_invader: no es tarea fácil, pero gracias al tablero de _Gobstones_ nos ahorraremos el trabajo duro de la parte visual :eyes:. ¿Y qué hacemos entonces? Mínimamente tendríamos que poder movernos :dancer:, sino sería aburridísimo. :bow:
 
