@@ -9,3 +9,6 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: Regar
   inspection: Uses:haySemillasPrevias
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: onKAPressed
+  inspection: Uses:Regar
