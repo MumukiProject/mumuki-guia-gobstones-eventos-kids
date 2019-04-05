@@ -1,5 +1,5 @@
 ---
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: onKAPressed
+  binding: onKLeftPressed
   inspection: Uses:MoverSembradora
