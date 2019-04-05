@@ -2,7 +2,7 @@
 
 <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-eventos-kids/master/assets/toolbox_1552945151840.xml"></gs-toolbox>
 
-<gs-keyboard-config keyboard-url="https://raw.githubusercontent.com/luchotc/mumuki-guide-gobstones-guia-test-attires/master/example.json"></gs-keyboard-config>
+<gs-keyboard-config keyboard-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-eventos-kids/master/assets/keyboard.json"></gs-keyboard-config>
 
 Limpia y preparada la tierra, es hora de sembrar. Pero... ¿para qué sembrar frutas y verduras si podemos comprarlas en la verdulería? 
 
