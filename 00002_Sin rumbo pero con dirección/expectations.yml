@@ -1,0 +1,11 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: onKUpPressed
+  inspection: Uses:MoverSembradora
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: onKDownPressed
+  inspection: Uses:MoverSembradora
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: onKRightPressed
+  inspection: Uses:MoverSembradora
