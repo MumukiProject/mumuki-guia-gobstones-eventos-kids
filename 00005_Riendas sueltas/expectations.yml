@@ -5,7 +5,7 @@ expectations:
   inspection: UsesIf
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: Sembrar
-  inspection: Uses:tienePiedra
+  inspection: Uses:tienePiedras
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: Sembrar
   inspection: Uses:tieneAbono
