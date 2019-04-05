@@ -6,3 +6,6 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: LimpiarYAbonarTierra
   inspection: Uses:Poner
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: onKBPressed
+  inspection: Uses:LimpiarYAbonarTierra
