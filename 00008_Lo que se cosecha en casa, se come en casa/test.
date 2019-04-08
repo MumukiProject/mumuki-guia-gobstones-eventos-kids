@@ -1,4 +1,5 @@
 check_head_position: false
+interactive: true
 examples:
  - initial_board: |
      GBB/1.0
