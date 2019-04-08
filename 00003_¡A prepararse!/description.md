@@ -10,4 +10,4 @@ Bueno… Primero deberíamos preparar la tierra. Eso implica limpiarla y llenarl
 
 Para eso, hay que **abonarla** con una cosa llamada **composta**, que se puede hacer con _estiércol :poop: de ciertos animales, restos de frutas y verduras_ :sweet_potato: _u hojas degradadas_ :fallen_leaf::maple_leaf:. ¡Comencemos!
 
-> Completá el procedimiento `Limpiar y abonar tierra` para que, si se cumple la condición que te dejamos, `saque` todas las `piedras hasta que no haya` más y, luego, `ponga el abono`. Asociá este procedimiento a la tecla `B`.
+> Completá el procedimiento `Limpiar y abonar tierra` para que, si se cumple la condición que te dejamos, `saque` todas las `piedras hasta que no haya` más y, luego, `ponga el abono`. Asociá este procedimiento a la tecla `B`. 
