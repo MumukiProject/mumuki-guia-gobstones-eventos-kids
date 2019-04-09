@@ -1,0 +1,1 @@
+El bloque para poder asociar procedimientos a teclas está en la categoría _Teclas_. Como tenemos que asociarlo a una letra vamos a elegir el bloque de _Al apretar la tecla A_, luego apretando la flechita para abajo :arrow_down_small: cambiamos la letra _A_ por la _R_.
