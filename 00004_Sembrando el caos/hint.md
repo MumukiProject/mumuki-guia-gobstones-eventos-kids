@@ -1,1 +1,1 @@
-Ya te dejamos la asociación para que `siembre tomate` al apretar `T`. Acordate que en el condicional podés evaluar varias condiciones usando los operadores.
+Ya te dejamos la asociación para que `siembre tomate` al apretar `T`. Acordate que en el condicional podés evaluar varias condiciones usando los operadores. 
