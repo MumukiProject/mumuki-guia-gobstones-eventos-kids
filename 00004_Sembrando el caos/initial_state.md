@@ -1,9 +1,9 @@
 <gs-board> GBB/1.0
 size 5 5
-cell 1 4 Verde 1 Rojo 1 
-cell 2 4 Verde 1 Rojo 1
+cell 1 4 Rojo 4 Verde 1 
+cell 2 4 Rojo 4 Verde 1 
 cell 1 3 Verde 5 
-cell 2 3 Verde 1 Negro 1 
+cell 2 3 Negro 4 Verde 1 
 cell 2 2 Negro 3 
 cell 0 0 Azul 1 
 cell 1 0 Negro 3 
