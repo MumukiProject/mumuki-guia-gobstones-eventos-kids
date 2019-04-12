@@ -4,6 +4,8 @@
 
 <gs-keyboard-config keyboard-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-eventos-kids/master/assets/keyboard.json"></gs-keyboard-config>
 
-¡Ya dimos nuestro primer pasito en esto de los juegos! :blush::tada: ¿Y ahora con qué seguimos? Con las direcciones restantes. :wink:
+¡Ya dimos nuestro primer pasito en esto de los juegos! :blush::tada: ¡Celebremos este gran evento! Y por cierto... ¿qué es un **evento**? Es algo que ocurre, para lo que podemos decidir qué hacer luego :sunglasses:. En este caso, cuando ocurre el _evento_ de apretar la tecla :arrow_left:, nos movemos hacia el Oeste. :walking:
+
+¿Y ahora con qué seguimos? Con las direcciones restantes. :wink:
 
 > Completá las asignaciones restantes para que al apretar cada flecha mueva la sembradora en la dirección correspondiente.
